@@ -1,5 +1,5 @@
 require 'rubygems'
-gem 'activeresource', '< 3.0.0.beta1'
+gem 'activeresource'
 require 'active_resource'
 
 module Freeagent
